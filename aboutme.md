@@ -8,4 +8,4 @@ Comunidad de Odoo basada principalmente en Argentina con el objetivo de comparti
 
 ### Vínculos de Interés
 
-* [Wiki de la Localización Argentina](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+* [Wiki de la Localización Argentina](https://github.com/OdooAR/odoo-argentina/wiki)
