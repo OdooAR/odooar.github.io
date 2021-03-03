@@ -363,6 +363,7 @@ img {
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
     width: 100%;
+    background:#fff;
   }
 }
 
