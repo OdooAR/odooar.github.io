@@ -10,9 +10,14 @@ Recursos de interés al momento de implementar Odoo
 
 ### Ventas
 
+* [ar_sale_usd](https://github.com/ctmil/ar_sale_usd)
+* [sale_multi_confirm](https://github.com/ctmil/sale_multi_confirm)
+
 ### POS
 
 ### TMS
+
+* [transport-management-system](https://github.com/Jarsa/transport-management-system)
 
 ### Sitio Web
 
