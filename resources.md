@@ -37,3 +37,7 @@ Recursos de interés al momento de implementar Odoo
 * [website_sale_quick_cart](https://github.com/ctmil/website_sale_quick_cart)
 * [website_product_publish](https://github.com/ctmil/website_product_publish)
 * [website_sale_big_search](https://github.com/ctmil/website_sale_big_search)
+
+### Otros
+
+* [odoo_dark_theme](https://github.com/codize-app/odoo_dark_theme)
